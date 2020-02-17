@@ -1,6 +1,6 @@
 {
   "name": "@tigerbui/ng-megamenu",
-  "version": "1.2.6",
+  "version": "1.2.8",
   "description": "Directive megamenu simple",
   "main": "immenu.directive.min.js",
   "scripts": {
@@ -15,5 +15,9 @@
     "ng-megamenu"
   ],
   "author": "TigerBui",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/TigerBui/ng-megamenu.git"
+  },
   "license": "MIT"
 }
